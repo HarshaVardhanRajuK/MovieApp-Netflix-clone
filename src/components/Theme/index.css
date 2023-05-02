@@ -1,0 +1,19 @@
+.container {
+  /* background-image: url('https://images.pexels.com/photos/5874620/pexels-photo-5874620.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2'); */
+  background-image: url('https://img.freepik.com/free-vector/red-hearts-background_1378-25.jpg?w=740&t=st=1682925806~exp=1682926406~hmac=98ed561b8c577c80c076ddc01b25e65e50be7140471cfd3f7059c58ba564a2bd');
+  background-position: center;
+  background-size: cover;
+  min-height: 100vh;
+  color: blue;
+}
+.popular-list {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  padding-left: 32px;
+  padding-right: 19px;
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: 8px;
+  justify-content: center;
+}
